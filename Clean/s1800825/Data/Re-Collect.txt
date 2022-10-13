@@ -1,3 +1,14 @@
 Respeck
 - sitting
-- 
+
+Thingy
+- sitting
+- sitting forward
+- sitting backward
+- standing
+- lying down on stomach
+- lying down on back
+- lying down left
+- lying down right
+- desk work
+- movement
