@@ -15,3 +15,6 @@ Respeck
 
 Thingy
 - walking at normal speed
+- running
+- climbing stairs
+- descending stairs
