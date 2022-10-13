@@ -1,8 +1,8 @@
 Respeck
-- sitting
+- sitting =
 
 Thingy
-- sitting
+- sitting 
 - sitting forward
 - sitting backward
 - standing

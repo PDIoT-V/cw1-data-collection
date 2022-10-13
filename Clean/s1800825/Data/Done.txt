@@ -1,4 +1,5 @@
 Respeck
+- sitting
 - sitting bend forward
 - sitting bend backward
 - standing
@@ -18,3 +19,13 @@ Thingy
 - running
 - climbing stairs
 - descending stairs
+- sitting
+- sitting bend forward
+- sitting bend backward
+- standing
+- desk work
+- movement
+- lying down on back
+- lying down left
+- lying down right
+- lying down on stomach
